@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin:0em;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    background-color:#FFFFFF;
+    
+    }
+
+header{
+    top: 0;
+    right: 0;
+    left: 0;	
+    background-color:#00539B;	
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+footer{
+    left: 0;
+    bottom: 0;	
+    width: 100%;	    
+    background-color:#00539B;	
+    padding-top: 2em;
+    padding-bottom: 2em;
+    /*position: fixed;*/ 
+    margin-top: 1rem;
+}
